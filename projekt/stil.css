@@ -1,0 +1,75 @@
+/*CSS Document */
+
+.center2 {
+  margin: auto;
+  width: 50%;
+  border: 3px 0D98BA;
+  padding: 10px;
+}
+
+p {
+	color: 151B8D;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 1000px;
+	background-color: #E0FFFF;
+	padding: 20px;
+	opacity: 50%;
+}
+.paragraf_2 {color: 151B8D; background-color: #E0FFFF; width: 490px; padding: 10px;}
+h4 {font-family: Times New Roman; color: b1e9f7; font-size:18px; }
+
+h1,h2 {
+	font-family: Times New Roman;
+	color: cyan;
+}
+h1 {text-align: center;}
+h3 {
+	font-family: Times New Roman;
+	color: b1e9f7;
+}
+
+.pozadina {
+	background-image: url("slikepz/pozadina.jpg");
+}
+.pozadina2 {
+	background-image: url("slikepz/pozadina2.jpg");
+}
+.drugapozadina{
+	background-color: 0492c2;
+}
+.pozadina3 {
+	background-image: url("slikepz/poz3.jpg");
+}
+
+
+a:hover{
+	background-color: #cyan ;
+}
+
+img{
+	height: 370px;
+}
+
+.container {
+  display: flex;
+  align-items: center; 
+ padding-left: 10px;
+}
+img{
+  margin-left: 2px ;
+  margin-right: 2px;
+}
+
+video{
+  margin-left: 2px ;
+  margin-right: 2px;
+}
+
+ video.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+	
